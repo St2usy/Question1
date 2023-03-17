@@ -1,0 +1,6 @@
+﻿  수식 계산 프로그램.cpp
+C:\Users\신철언\OneDrive\바탕 화면\신철언 노트북\개발공부\자료구조 과제\230313UG\230313UG\수식 계산 프로그램.cpp(80,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\신철언\OneDrive\바탕 화면\신철언 노트북\개발공부\자료구조 과제\230313UG\230313UG\OperandStack.h(41): warning C4715: 'OperandStack::pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\신철언\OneDrive\바탕 화면\신철언 노트북\개발공부\자료구조 과제\230313UG\230313UG\Stack_Made_2.h(41): warning C4715: 'ArrayStack::pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\신철언\OneDrive\바탕 화면\신철언 노트북\개발공부\자료구조 과제\230313UG\230313UG\Stack_Made_2.h(47): warning C4715: 'ArrayStack::peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  230313UG.vcxproj -> C:\Users\신철언\OneDrive\바탕 화면\신철언 노트북\개발공부\자료구조 과제\230313UG\230313UG\x64\Debug\230313UG.exe
